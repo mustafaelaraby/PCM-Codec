@@ -1,13 +1,13 @@
 %% ============================= INFO ==================================%%
 % this code is written by:
-%  1. Mustafa Elaraby.          +201096650226
+%  1. Mustafa Elaraby.          +201118849303
 
 %% ============================ clear ================================%%
 
 clear;
 clc;
 
-%% =========================== impoerts ==============================%%
+%% =============s============== impoerts ==============================%%
 import methods.sampler
 import methods.quantizer
 import methods.encoder
